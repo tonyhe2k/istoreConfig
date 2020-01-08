@@ -1,1 +1,1 @@
-# istoreConfig
+# istore - Configuration
